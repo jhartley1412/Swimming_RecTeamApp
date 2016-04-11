@@ -13,7 +13,15 @@ UX Persona hypotheses
         In her late 20s/early 30s, has an active lifestyle (enjoys running, being outside, eating healthy, etc). Single, lots a friends (outgoing), has a dog at home. Used to be on high school/college swim teams (mostly did it for the social aspect). Usually uses apps/social media like Facebook and Instagram. 
         Uses app every Thursday/Friday and weekends to check/plan upcoming meets and assign swimmers to best strokes. Sees recreational team more as a social "fun" experience, less for competitive reasons.
 
+    - Joe Pokey
+        Young adult in his early 20s. Started recreational swim team in college for an extra curriclium activity. Not part of a Frat house, but is a big socialitte on campus. Get's average grades, usually playing video games or football with dormmates.
+        Has a competitive side, likes the thought of his team winning, and wouldn't mind becoming a swim coach later on in life (his dad was his little league socccor coach). The type to check app regulary and strategize his teams, and the opposing teams stats. Likes to have regular practices with team.
+
 1 Feature; Planning/Scheduling an upcoming meet
+
+
+Holly's UX
+--------------------------------
 
 User Story 1; Holly's the experienced captain of her team, and needs to plan an upcoming meet with opposing team's captain. She needs to choose what location and which team members will swim which strokes/heats, and notify her team accordingly. 
 
@@ -53,8 +61,21 @@ Use Case 1;
     - Holly exits app
 
 
+Joe's UX
+--------------------------------
 
-has a default "line up" already set up so she can quickly 
+User Story 2; Joe is a fairly inexperienced captain, but has the drive and ambition to become a great coach. Since he's kind of new to this, he relys a lot on his teammates, and considers the swim team one of his main priorities. He likes scheduling regular practices and usually schedules meets by demand (not a determined every Saturday deal).
+
+Scenario 2; Joe met a another college aged "captain" for another recreational swim team at a college sports event, and the two guys want to see whose team is better. They've exchanged contact information and are trying to see which weekend works best with their teams schedules. Joey wants to make sure his team has enough practice before going head to head with this other guys team. 
+
+Use Case 2;
+    - Joe opens app
+    - *Joe is already signed in*
+    - 
+
+
+Notes on App functions/feature;
+    - users can set a Line up to "Default Line up," so they don't have to manally add to roster each time
 
 
 
