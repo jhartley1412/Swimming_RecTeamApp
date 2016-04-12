@@ -98,7 +98,7 @@ Use Case 2;
     - *Swim Meet v TA (event menu) opens*
     - Joe clicks "Roster Tab"
     - *Swim Meet v TA Menu, Roster Tab opens*
-    - Joe clicks "Add Roster"
+    - Joe clicks "Add New Roster"
     - *Add Roster Menu opens*
     - Joe clicks "Add Players"
     - *Add Players menu opens; shows list of all Team Memebers*
