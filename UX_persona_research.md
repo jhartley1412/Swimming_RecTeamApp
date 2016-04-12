@@ -33,7 +33,7 @@ Use Case 1;
     - she clicks on "Scheduling Button"
     - *Scheduling Menu opens*
     - Holly clicks "Swim Meet 5"
-    - *Swim Meet 5 Menu opens*
+    - *Swim Meet 5 (event menu) opens*
     - She clicks on "Roster Tab"
     - *Swim Meet 5, Roster Tab opens*
     - She scrolls through roster until she finds Barry's name
@@ -53,11 +53,12 @@ Use Case 1;
     - *Swim Meet 5 Menu, Roster Menu Popup opens*
     - Holly clicks Elliot's name
     - *back on Swim Meet 5 Menu, Line up Tab*
+    - *Team is sent notifications of new Line up*
     - Holly clicks "Messages"
     - *Messages Menu opens*
-    - Holly clicks "All"
-    - Holly writes message about adding Elliot to roster
-    - Holly clicks send
+    - Holly clicks "All on Team"
+    - Holly writes message about updating Line up and adding Elliot to roster
+    - Holly clicks "Send"
     - Holly exits app
 
 
@@ -66,12 +67,34 @@ Joe's UX
 
 User Story 2; Joe is a fairly inexperienced captain, but has the drive and ambition to become a great coach. Since he's kind of new to this, he relys a lot on his teammates, and considers the swim team one of his main priorities. He likes scheduling regular practices and usually schedules meets by demand (not a determined every Saturday deal).
 
-Scenario 2; Joe met a another college aged "captain" for another recreational swim team at a college sports event, and the two guys want to see whose team is better. They've exchanged contact information and are trying to see which weekend works best with their teams schedules. Joey wants to make sure his team has enough practice before going head to head with this other guys team. 
+Scenario 2; Joe met a another college aged "captain" (his name is Frank) for another recreational swim team at a college sports event, and the two guys want to see whose team is better. They've exchanged contact information and are trying to see which weekend works best with their teams schedules. Joey wants to make sure his team has enough practice before going head to head with this other guys team. 
 
 Use Case 2;
     - Joe opens app
     - *Joe is already signed in*
-    - 
+    - Joe clicks "Messages"
+    - *Messages Menu opens*
+    - Joe clicks "Frank"
+    - Joe writes message to Frank about which day would be best
+    - Joe clicks send
+    - Joe recieves notification of Franks respsonse (Frank says next weekend)
+    - Joe clicks "All on Team"
+    - Joe writes message to team to mark upcoming meet on their calendar
+    - Joe clicks "Send"
+    - Joe clicks "Scheduling Button"
+    - *Scheduling Menu opens*
+    - Joe clicks "Add Event"
+    - Joe writes "Swim Meet vs Team Anchor" (opposing team mascot)
+    - Joe clicks "Add to Schedule"
+    - *Swim Meet v TA (event menu) opens*
+    - Joe clicks "Roster Tab"
+    - *Swim Meet v TA Menu, Roster Tab opens*
+    - Joe clicks "Add Roster"
+    - *Add Roster Menu opens*
+    - Joe clicks "Default Line up"
+    - *Default Line up added to Roster Menu*
+    - *Team is sent notifications of new Line up*
+    - Joe exits app
 
 
 Notes on App functions/feature;
