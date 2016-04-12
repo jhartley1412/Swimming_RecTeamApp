@@ -24,9 +24,7 @@ UX Persona hypotheses
 
 
 
-1 Feature; Planning/Scheduling an upcoming meet
-
-
+Feature 1; Planning/Scheduling an upcoming meet
 
 Holly's UX
 --------------------------------
@@ -54,7 +52,7 @@ Use Case 1;
     - *list of All Players menu opens*
     - Holly clicks "Elliot Smith"
     - *back on Swim Meet 5 Menu, Roster Tab*
-    - Holly clicks "line up tab"
+    - Holly clicks "Line up tab"
     - *Line up Tab opens*
     - Holly scrolls down to (now empty) M 100 Back, Lane 2
     - Holly clicks "Lane 2"
@@ -70,6 +68,8 @@ Use Case 1;
     - Holly exits app
 
 
+
+Feature 2; Adding players to Roster (creating Default Roster)
 
 Joe's UX
 --------------------------------
@@ -100,10 +100,23 @@ Use Case 2;
     - *Swim Meet v TA Menu, Roster Tab opens*
     - Joe clicks "Add Roster"
     - *Add Roster Menu opens*
-    - Joe clicks "Default Line up"
+    - Joe clicks "Add Players"
+    - *Add Players menu opens; shows list of all Team Memebers*
+    - Joe scrolls through list of players and clicks on each Team Member he wants on his Default Line up (he can check muliple players at once)
+    - Joe clicks "Add to Roster"
+    - *Swim Meet v TA Menu, Roster Tab opens*
+    - Joe clicks "Line up Tab"
+    - *Swim Meet v TA Menu, Line up Tab opens*
+    - Joe clicks "M 100 Free"
+    - *Roster List opens*
+    - Joe clicks on Gary (or whoever he wants to swim 100 Freestyle)
+    - Joe clicks "Lane 1"
+    - Joe repeats last 3 steps for M 100 Free Lanes 3, and 5; Joe repeats last 3 steps for M 100 Fly Lanes 1, 3 and 5; Joe repeats last 3 steps for 100 M Back Lanes 1, 3 and 5; Joe repeats last 3 steps for 100 M Breast Lanes 1, 3 and 5
+    - Joe clicks "Set Line up as Default"
     - *Default Line up added to Roster Menu*
     - *Team is sent notifications of new Line up*
     - Joe exits app
+
 
 
 Notes on App functions/feature;
