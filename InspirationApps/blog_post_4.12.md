@@ -2,3 +2,5 @@ Blog Post
 -------------
 
 In researching different sports related Apps, one thing I find fairly commonplace is the lack of heavy feedback from pressing buttons. A lot of them (a lot of iPhone apps in general it seems) usually have nav bars of some sort on the bottom of the screen. But not all; most that don't have a bottom nav bar will have some sort of drop down or list page that acts as their main navigation. The main goal of the app seems to be to let the manager/coach or player get in and out as fast as possible (like most apps), without being distracted or delayed by fancy animations or unnecessary effects.
+
+I' glad we've gotten into paper prototyping. I'm starting to realize that I tend to come up with crazy complicated and jumbled ways to navigate the user, and not realizing it until I see someone else try to follow the path. On my first test I ended up resizing a task that I had planned out taking 4 steps into 1 (2 if you really wanna get technical). I never realized the benefits of paper prototyping, and the benefit of just visually seeing how simply things can become.
