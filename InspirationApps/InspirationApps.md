@@ -10,6 +10,7 @@ Noticable Feedback
 
 
 Moxie (Sports Team) App
+https://itunes.apple.com/bt/app/moxie-sports-sports-team-management/id1023829642?mt=8
     - bottom nav bar; Feed, Teams, Seach, Profile, More (in that order)
     - blue-green gradeint colors
     - high tech feel
@@ -17,6 +18,7 @@ Moxie (Sports Team) App
     - no crazy effects, yet still easily noticable feedback
 
 TeamSnap App
+https://www.teamsnap.com/iphone
     - upon create account, asks if you are a Coach/Manager, Team Player or Fan (each option paired with minimalistic, colored icons)
     - logo looks like a healthcare logo (the orange one form Vermont)
     - uponn create account, asks to fill in sport from predetermined list
@@ -27,9 +29,11 @@ TeamSnap App
     - no bottom nav bar, most navigational information displayed as list in "home" page/profile page
 
 TeamWall App
+https://itunes.apple.com/us/app/teamwall-team-sports-management/id964604446?mt=8
     - no option to Create an account on app (only option to Sign in and Forgot Password)
 
 MeetMobile App
+https://itunes.apple.com/us/app/meet-mobile-swim-view-event/id422154977?mt=8
     - bottom nav bar; Home (which shows tabs for Last Visited, Meets Near Me, Fav Meets), Favorites, Share and More
     - no real visual feedback from pressing buttons (just page change)
     - blue color scheme (swimming based app)
