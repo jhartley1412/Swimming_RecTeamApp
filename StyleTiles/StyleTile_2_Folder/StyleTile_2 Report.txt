@@ -1,0 +1,67 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: StyleTile_2.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: inches
+Artboard Dimensions: 10 in x 8 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+SkippySharp (Typekit Fonts)
+Ingra Book (Typekit Fonts)
+Ingra SemiBold (Typekit Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Myriad Pro Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/jc/Desktop/bubbles
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 13485K, 3181 by 1447 pixels
+Dimensions: 319.724 by 145.439 points 
+Resolution: 716.342 by 716.342 pixels per inch
+
+
+/Users/jc/Desktop/active_lifestyle
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1957K, 1000 by 668 pixels
+Dimensions: 217.723 by 145.439 points 
+Resolution: 330.696 by 330.696 pixels per inch
+
+
+/Users/jc/Desktop/teamwork
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 348K, 340 by 350 pixels
+Dimensions: 141.283 by 145.439 points 
+Resolution: 173.269 by 173.269 pixels per inch
