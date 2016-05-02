@@ -76,7 +76,7 @@ Joe's UX
 
 User Story 2; Joe is a fairly inexperienced captain, but has the drive and ambition to become a great coach. Since he's kind of new to this, he relies a lot on his teammates, and considers the swim team one of his main priorities. He likes scheduling regular practices and usually schedules meets by demand (not a determined every Saturday deal).
 
-Scenario 2; Joe met a another college aged "captain" (his name is Frank) for another recreational swim team at a college sports event, and the two guys want to see whose team is better. They've exchanged contact information and are trying to see which weekend works best with their teams schedules. Joey wants to make sure his team has enough practice before going head to head with this other guys team. 
+Scenario 2; Joe met another college aged "captain" (his name is Frank) for another recreational swim team at a college sports event, and the two guys want to see whose team is better. They've exchanged contact information and are trying to see which weekend works best with their teams schedules. Joey wants to make sure his team has enough practice before going head to head with this other guys team. 
 
 Use Case 2;
     - Joe opens app
